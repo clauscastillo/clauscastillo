@@ -1,6 +1,6 @@
 <h1 align="center">Hey Devs🧑‍💻</h1>
 <h1 align="center">Soy Alexandev</h1>
-Soy un joven cosmopolita apasionado por el mundo de la tecnología, pero me fui haciendo un sendero en el nicho del desarrollo por las posibilidades. Gran partidario del aprendizaje continuo, el desarrollo personal y la realización personal en todos los ámbitos
+Soy un joven cosmopolita apasionado por el mundo de la tecnología en general. Encontré una de mis pasiones en el desarrollo de software por el desafío que presenta esta carrera. Gran partidario del aprendizaje continuo, el desarrollo personal y la realización en todos los ámbitos.
 
 ## 🌐 Contacto:
 
